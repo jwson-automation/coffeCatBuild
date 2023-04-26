@@ -1,0 +1,3 @@
+"scripts": {
+  "deploy": "push-dir --dir=dist/spa --remote=gh-pages --branch=master"
+}
